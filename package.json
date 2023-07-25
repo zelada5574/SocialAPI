@@ -1,5 +1,5 @@
 {
-  "name": "Social Networ Api",
+  "name": "Social Network Api",
   "version": "1.0.1",
   "description": "Social Network API",
   "main": "index.js",
@@ -12,7 +12,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "moment": "^2.29.4",
-    "mongoose": "^7.0.2"
+    "mongoose": "^7.0.2",
+    "mongoose-data-seed": "^2.1.6"
   },
   "devDependencies": {
     "nodemon": "^2.0.9"
